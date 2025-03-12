@@ -1,5 +1,6 @@
 ---
 description: https://fabacademy.org/2025/
+icon: gears
 cover: .gitbook/assets/fablab.jpeg
 coverY: 0
 ---
